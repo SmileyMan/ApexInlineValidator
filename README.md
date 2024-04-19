@@ -5,8 +5,8 @@ Inline validation of inputs using just the attribute data-validate
 Load JavaScript file from APP_FILES
 
 ## Usage
-Create a page item
-
+Add a data-validate="" asttribute to the input
+For options and syntax see: https://github.com/icebob/fastest-validator#shorthand-definitions
 
 ## Screenshot
 ![Screenshot](assets/example.PNG)
